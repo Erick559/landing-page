@@ -95,6 +95,7 @@ button {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
+    margin: 48px 0;
 }
 
 .upper-middle {
@@ -106,4 +107,29 @@ button {
 
 .info {
     width: 200px;
+    margin-bottom: 70px;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 800px;
+    height: 400px;
+    padding: 70px;
+}
+
+.quote.ref {
+    display: flex;
+    align-items: flex-end;
 }
