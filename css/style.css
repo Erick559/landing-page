@@ -161,3 +161,11 @@ button {
     flex-direction: column;
     width: 500px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
