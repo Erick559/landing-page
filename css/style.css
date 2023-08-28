@@ -120,6 +120,12 @@ button {
     align-items: center;
 }
 
+.action {
+    font-size: 20px;
+    color: white;
+    font-weight: 900;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -132,4 +138,26 @@ button {
 .quote.ref {
     display: flex;
     align-items: flex-end;
+}
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+    height: 100px;
+}
+
+.signup-container {
+    background-color: #3B82F6;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: space-around;
+}
+
+.right-text {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
 }
