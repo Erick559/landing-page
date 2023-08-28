@@ -135,9 +135,12 @@ button {
     padding: 70px;
 }
 
-.quote.ref {
+.quote-ref {
+    width: 440px;
     display: flex;
-    align-items: flex-end;
+    justify-content: flex-end;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .sign-up {
