@@ -1,4 +1,4 @@
-# landing-page
+Landing-page
 
 #This was a simple project from the Odin Project that was done to familiarize myself with Flex and Flexbox layout methods
 
