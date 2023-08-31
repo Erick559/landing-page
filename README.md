@@ -1,6 +1,6 @@
 Landing-page
 
-#This was a simple project from the Odin Project that was done to familiarize myself with Flex and Flexbox layout methods
+This was a simple project from the Odin Project that was done to familiarize myself with Flex and Flexbox layout methods
 
 It is a website written using only HTML and CSS. It only has four sections, namely:
  - The header section with the navigation bar, some text and an image.
